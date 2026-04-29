@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brunoesperanca.github.io/docs-4x3fh6/sitemap.xml
